@@ -3,7 +3,7 @@ As a result of my bachelors thesis at Fachhochschule Dortmund, a programm has be
 
 
 
-# Installation
+## Installation
 
 - Install tesseract (https://github.com/tesseract-ocr/tesseract)
 
@@ -16,7 +16,7 @@ As a result of my bachelors thesis at Fachhochschule Dortmund, a programm has be
  sudo python3 setup.py install
 ```
 
-# Usage
+## Usage
 
 ```
 sudo ./main
@@ -24,7 +24,7 @@ sudo ./main
 
 
 
-# Configuration
+## Configuration
 
 The `config.ini` file is used to set all needed paths and enable quick parameter changes. It contains default values for most parameters which have been proved to deliever good results. 
 
